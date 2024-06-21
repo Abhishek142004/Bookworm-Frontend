@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Romance",
+    "price": 199,
+    "seller_name": "Akshat Jain",
+    "image_url": "https://gitmind.com/wp-content/uploads/2023/02/pride-and-prejudice-book-summary.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Notebook",
+    "author": "Nicholas Sparks",
+    "category": "Romance",
+    "price": 199,
+    "seller_name": "Aditya Kumar",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQmBpuTdkUI8HhvXIfJDCFeL5Qt5uspdN2w&s"
+  },
+  {
+    "id": 3,
+    "name": "Outlander",
+    "author": "Diana Gabaldon",
+    "category": "Romance",
+    "price": 599,
+    "seller_name": "Sunil Chetri",
+    "image_url": "https://miro.medium.com/v2/resize:fit:1400/0*ybMm-0Ai48ac-weA.png"
+  },
+  {
+    "id": 4,
+    "name": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "category": "Romance",
+    "price": 399,
+    "seller_name": "Manush T",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy8c_dW3qYU6CCbN4hACKAz47XSsyMK1o2yRF5ZeMPvfi5vArlPNJDWI4sc-dtiZhrkLE&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "category": "Romance",
+    "price": 99,
+    "seller_name": "Shivam",
+    "image_url": "https://theapollotheatre.co.uk/wp-content/uploads/sites/5/2023/05/Time-Travellers-Wife-1920x1080-1-1240x698.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Me Before You",
+    "author": "Jojo Moyes",
+    "category": "Romance",
+    "price": 199,
+    "seller_name": "Vishal",
+    "image_url": "https://assets-in.bmscdn.com/discovery-catalog/events/et00035678-vqjhqactqz-landscape.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Fault in Our Stars",
+    "author": "John Green",
+    "category": "Romance",
+    "price": 699,
+    "seller_name": "Sanjay Das",
+    "image_url": "https://i0.wp.com/foodfunfamily.com/wp-content/uploads/2014/05/TFIOS-banner.png?resize=600%2C315&ssl=1"
+  },
+  {
+    "id": 8,
+    "name": "Twilight",
+    "author": "Stephenie Meyer",
+    "category": "Romance",
+    "price": 499,
+    "seller_name": "Shashank Mathur",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOfws2QgWVwab9UyveqK64hxYb9xzwCp6Dw&s"
+  },
+  {
+    "id": 9,
+    "name": "Fifty Shades of Grey",
+    "author": "E.L. James",
+    "category": "Romance",
+    "price": 8.99,
+    "seller_name": "Agam Tiwari",
+    "image_url": "https://i.pinimg.com/736x/8f/cf/c5/8fcfc5db8420682beeb12a425ca97207.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bridgerton : The Duke & I",
+    "author": "Julia Quinn",
+    "category": "Romance",
+    "price": 9.99,
+    "seller_name": "Himanshu",
+    "image_url": "https://i0.wp.com/www.msureporter.com/wp-content/uploads/2021/01/Bridgerton-Netflix.jpg?fit=512%2C288&ssl=1"
+  },
+  {
+    "id": 11,
+    "name": "The Hitchhiker's Guide",
+    "author": "Douglas Adams",
+    "category": "Comedy",
+    "price": 399,
+    "seller_name": "Atmaram Bhide ",
+    "image_url": "https://assets.vogue.in/photos/5ce4241389be36ea417cf673/master/pass/hitchhiker.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Good Omens",
+    "author": "Neil Gaiman & Terry Pratchett",
+    "category": "Comedy",
+    "price": 199,
+    "seller_name": "Jethalal",
+    "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/06/good-omens-poster-header-1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Bossypants",
+    "author": "Tina Fey",
+    "category": "Comedy",
+    "price": 99,
+    "seller_name": "Tuka Ram",
+    "image_url": "https://i0.wp.com/www.jcollindemers.com/wp-content/uploads/2018/02/Bossypants-Book-on-a-Table.jpg?w=612&ssl=1"
+  },
+  {
+    "id": 14,
+    "name": "Yes Please",
+    "author": "Amy Poehler",
+    "category": "Comedy",
+    "price": 399,
+    "seller_name": "Motu seth",
+    "image_url": "https://ew.com/thmb/eUBWjX9eNKQy6SqPoHvqJUcx89o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/yes-please_612x381-e4a40eae5a2942428e2ef4afcafa7abc.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Me Talk Pretty One Day",
+    "author": "David Sedaris",
+    "category": "Comedy",
+    "price": 99,
+    "seller_name": "Anjali Devi",
+    "image_url": "https://musewithmeblog.com/wp-content/uploads/2021/02/me-talk-pretty-one-day_featured.jpg?w=810"
+  },
+  {
+    "id": 16,
+    "name": "Importance of Earnest",
+    "author": "Oscar Wilde",
+    "category": "Comedy",
+    "price": 599,
+    "seller_name": "Tarak mehta",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ucYjNaYHeaw0VVA1TfPlL_lHNrdgmD9pzg&s"
+  },
+  {
+    "id": 17,
+    "name": "Catch-22",
+    "author": "Joseph Heller",
+    "category": "Comedy",
+    "price": 299,
+    "seller_name": "Hathi Bhai",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDs3s37ld06wuzTXH9iS2rSf6bNPSrXV1D2KujAQdW-0Y8-Mt56VDeQmF7vPhcZVQeNGY&usqp=CAU"
+  },
+  {
+    "id": 18,
+    "name": "The Princess Bride",
+    "author": "William Goldman",
+    "category": "Comedy",
+    "price": 199,
+    "seller_name": "Sodhi Paji",
+    "image_url": "https://img.enama.ir/Video/Get/1280/720/3677932/4371959"
+  },
+  {
+    "id": 19,
+    "name": "Three Men in a Boat",
+    "author": "Jerome K. Jerome",
+    "category": "Comedy",
+    "price": 599,
+    "seller_name": "Akshat jain",
+    "image_url": "https://i.ytimg.com/vi/iF10qyJNoAw/maxresdefault.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Eleanor Oliphant",
+    "author": "Gail Honeyman",
+    "category": "Comedy",
+    "price": 99,
+    "seller_name": "Astha Bhakti ",
+    "image_url": "https://www.sarahsbookshelves.com/wp-content/uploads/sites/228/2017/07/Eleanor-Oliphant-is-Completely-Fine-Featured_mini.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "It",
+    "author": "Stephen King",
+    "category": "Horror",
+    "price": 99,
+    "seller_name": "Ravi jadeja",
+    "image_url": "https://www.metacritic.com/a/img/catalog/provider/2/13/2-6d1ef5591d23abec7f99eb7178cb2fd0.jpg"
+  },
+  {
+    "id": 22,
+    "name": "The Shining",
+    "author": "Stephen King",
+    "category": "Horror",
+    "price": 299,
+    "seller_name": "Rishabh Pant",
+    "image_url": "https://weminoredinfilm.com/wp-content/uploads/2018/09/stephen-king-the-shining-673491.jpg?w=640"
+  },
+  {
+    "id": 23,
+    "name": "Dracula",
+    "author": "Bram Stoker",
+    "category": "Horror",
+    "price": 599,
+    "seller_name": "Hardik pandya",
+    "image_url": "https://miro.medium.com/v2/resize:fit:1106/1*A51lcMoZkWOBPtzEYvsnZg.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "category": "Horror",
+    "price": 9,
+    "seller_name": "Shivam Dube",
+    "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/940fb385300231.5d77e2324631b.png"
+  },
+  {
+    "id": 25,
+    "name": "Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "category": "Horror",
+    "price": 99,
+    "seller_name": "Rinku Singh",
+    "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/07/shirley-jackson-covers.jpg?fit=800%2C450&ssl=1"
+  },
+  {
+    "id": 26,
+    "name": "Bird Box",
+    "author": "Josh Malerman",
+    "category": "Horror",
+    "price": 899,
+    "seller_name": "Virat Kohli",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjokQFyqXVpoa4rjPfQ6xNeTECNPSezpfNMQ&s"
+  },
+  {
+    "id": 27,
+    "name": "The Exorcist",
+    "author": "William Peter Blatty",
+    "category": "Horror",
+    "price": 699,
+    "seller_name": "Rohit Sharma",
+    "image_url": "https://cdn.penguin.co.uk/dam-assets/books/9781785291081/9781785291081-jacket-large.jpg"
+  },
+  {
+    "id": 28,
+    "name": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "category": "Horror",
+    "price": 199,
+    "seller_name": "KL Rahul ",
+    "image_url": "https://www.firstandfine.com/wp-content/uploads/2016/11/IMG_9249.jpg"
+  },
+  {
+    "id": 29,
+    "name": "American Psycho",
+    "author": "Bret Easton Ellis",
+    "category": "Horror",
+    "price": 199,
+    "seller_name": "Hasan Ali",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTNSQjLW-PDGPuR27ehumBhhLOriAMTZjdQ&s"
+  },
+  {
+    "id": 30,
+    "name": "The Girl Next Door",
+    "author": "Jack Ketchum",
+    "category": "Horror",
+    "price": 399,
+    "seller_name": "Babar Azam",
+    "image_url": "https://nationalbookswap.com/pbs/xl/37/9737/9780963339737.jpg"
+  },
+  {
+    "id": 31,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 99,
+    "seller_name": "Wanda",
+    "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/03/split-images-of-the-hobbit-trilogy.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Kafka On The Shore",
+    "author": "Haruki Murakami",
+    "category": "Fantasy",
+    "price": 199,
+    "seller_name": "The Hulk",
+    "image_url": "https://quirkyandquick.wordpress.com/wp-content/uploads/2018/10/kafka_on_the_shore_by_oneirio-d9kbmio.png?w=640"
+  },
+  {
+    "id": 33,
+    "name": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "category": "Fantasy",
+    "price": 299,
+    "seller_name": "Thor",
+    "image_url": "https://chasingthefourwinds.wordpress.com/wp-content/uploads/2017/07/dsc_0542.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Mistborn",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy",
+    "price": 799,
+    "seller_name": "Wolverine",
+    "image_url": "https://i.ytimg.com/vi/jHXT-VRnTtA/maxresdefault.jpg"
+  },
+  {
+    "id": 35,
+    "name": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "category": "Fantasy",
+    "price": 199,
+    "seller_name": "Deadpool",
+    "image_url": "https://images.thedirect.com/media/article_full/game-of-thrones.jpg"
+  },
+  {
+    "id": 36,
+    "name": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy",
+    "price": 699,
+    "seller_name": "Phoenix",
+    "image_url": "https://cultureofgaming.com/wp-content/uploads/2023/02/the-way-of-the-kings-stormlight-archives.png"
+  },
+  {
+    "id": 37,
+    "name": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "category": "Fantasy",
+    "price": 199,
+    "seller_name": "Shazam",
+    "image_url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/09/narnia-movies.jpg"
+  },
+  {
+    "id": 38,
+    "name": "The Dark Tower",
+    "author": "Stephen King",
+    "category": "Fantasy",
+    "price": 499,
+    "seller_name": "Wonder Woman",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1627875258i/31719561._SX540_.jpg"
+  },
+  {
+    "id": 39,
+    "name": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "category": "Fantasy",
+    "price": 199,
+    "seller_name": "SuperMan",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1483581415i/21627431._SX540_.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Uprooted",
+    "author": "Naomi Novik",
+    "category": "Fantasy",
+    "price": 499,
+    "seller_name": "Mask Man",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Rrl0-iERVjYAX0wgr9GCbhan1QwP36_fGQ&s"
+  },
+  {
+    "id": 41,
+    "name": "Dune",
+    "author": "Frank Herbert",
+    "category": "Sci-Fi",
+    "price": 399,
+    "seller_name": "Danish",
+    "image_url": "https://assets-prd.ignimgs.com/2024/03/01/dune-books-ign-1709295634586.png"
+  },
+  {
+    "id": 42,
+    "name": "Ender's Game",
+    "author": "Orson Scott Card",
+    "category": "Sci-Fi",
+    "price": 299,
+    "seller_name": "Sharan",
+    "image_url": "https://i0.wp.com/borg.com/wp-content/uploads/2013/11/enders-game-image.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Neuromancer",
+    "author": "William Gibson",
+    "category": "Sci-Fi",
+    "price": 799,
+    "seller_name": "Adarsh",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5iH1lWgAVLVWcqh3-8DHXVCNkNIE0o8PIaBLvqUfiRJf8EcRh6-N1nrAHeMF_pQg3vU&usqp=CAU"
+  },
+  {
+    "id": 44,
+    "name": "Snow Crash",
+    "author": "Neal Stephenson",
+    "category": "Sci-Fi",
+    "price": 199,
+    "seller_name": "Abubakar",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_3TwmRLJVOUYeErErWreu9POgHo7SbqQyQ&s"
+  },
+  {
+    "id": 45,
+    "name": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "category": "Sci-Fi",
+    "price": 99,
+    "seller_name": "Arbaj",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1619701471i/31253857._SX540_.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Hyperion",
+    "author": "Dan Simmons",
+    "category": "Sci-Fi",
+    "price": 199,
+    "seller_name": "Jija Ji",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1517318868i/24966685._SX540_.gif"
+  },
+  {
+    "id": 47,
+    "name": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "category": "Sci-Fi",
+    "price": 599,
+    "seller_name": "Brandon King",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ754UY05poNdgY8Q1Z41ZC8fBAb60NxW6Lg&s"
+  },
+  {
+    "id": 48,
+    "name": "Foundation",
+    "author": "Isaac Asimov",
+    "category": "Sci-Fi",
+    "price": 699,
+    "seller_name": "Elon Musk",
+    "image_url": "https://s26162.pcdn.co/wp-content/uploads/2020/02/NINTCHDBPICT000489726228-1.jpg"
+  },
+  {
+    "id": 49,
+    "name": "The Martian",
+    "author": "Andy Weir",
+    "category": "Sci-Fi",
+    "price": 399,
+    "seller_name": "Meloni",
+    "image_url": "https://mythcreants.com/wp-content/uploads/2016/04/the_martian.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "category": "Sci-Fi",
+    "price": 899,
+    "seller_name": "Donald Trump",
+    "image_url": "https://1.bp.blogspot.com/-7bRTz1gQbpc/T8Zi4ZgmSdI/AAAAAAAAFOo/ooEVOfQUrws/w1200-h630-p-k-no-nu/Altered+Carbon.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "price": 299,
+    "seller_name": "Ben Stokes",
+    "image_url": "https://media.licdn.com/dms/image/D5612AQEN_QNHvf1x8w/article-cover_image-shrink_600_2000/0/1685803164387?e=2147483647&v=beta&t=LXmGSu8RriW7trcwssV42eoUYhZQc5Ayu1xVRVFzSNE"
+  },
+  {
+    "id": 52,
+    "name": "The Guns of August",
+    "author": "Barbara W. Tuchman",
+    "category": "History",
+    "price": 399,
+    "seller_name": "Prajwal",
+    "image_url": "https://i.ytimg.com/vi/0lF1IGwbWi0/mqdefault.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Team of Rivals",
+    "author": "Doris Kearns Goodwin",
+    "category": "History",
+    "price": 499,
+    "seller_name": "Salman Khan",
+    "image_url": "https://media.licdn.com/dms/image/D4D12AQFURBK-jxAuUg/article-cover_image-shrink_720_1280/0/1716292906639?e=2147483647&v=beta&t=FM2w0Je5mr3WwuKUHLz78twx0qPqXDpxnuTGDrxbuks"
+  },
+  {
+    "id": 54,
+    "name": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "category": "History",
+    "price": 99,
+    "seller_name": "Bobby Deol",
+    "image_url": "https://endedupreading.wordpress.com/wp-content/uploads/2020/09/the-diary-of-a-young-girl-by-anne-frank-book-review-by-ended-up-reading.png?w=1200"
+  },
+  {
+    "id": 55,
+    "name": "The Wright Brothers",
+    "author": "David McCullough",
+    "category": "History",
+    "price": 199,
+    "seller_name": "Sunny Deol",
+    "image_url": "https://diyhomeschooler.com/wp-content/uploads/2021/08/21e45-87475-wblg.jpg"
+  },
+  {
+    "id": 56,
+    "name": "The Immortal Life ",
+    "author": "Rebecca Skloot",
+    "category": "History",
+    "price": 499,
+    "seller_name": "Brian Lara",
+    "image_url": "https://www.rainydaybooks.com/sites/rainydaybooks.com/files/files/RebeccaSkloot.jpg"
+  },
+  {
+    "id": 57,
+    "name": "1776",
+    "author": "David McCullough",
+    "category": "History",
+    "price": 599,
+    "seller_name": "Queen Elizabeth",
+    "image_url": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2019/06/09/1615466-704725753.jpg?itok=uEFjAuuv"
+  },
+  {
+    "id": 58,
+    "name": "Rise & Fall of 3rd Reich",
+    "author": "William L. Shirer",
+    "category": "History",
+    "price": 199,
+    "seller_name": "Johan leibert",
+    "image_url": "https://images.pangobooks.com/images/b87df726-fba0-4bf5-8349-f7b8b671a037?quality=85&width=1200&crop=28%3A15"
+  },
+  {
+    "id": 59,
+    "name": "The Silk Roads",
+    "author": "Peter Frankopan",
+    "category": "History",
+    "price": 699,
+    "seller_name": "Anna Leibert",
+    "image_url": "https://m.media-amazon.com/images/I/918LUf34oiL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "category": "History",
+    "price": 799,
+    "seller_name": "Neena Fortner",
+    "image_url": "https://indianpueblo.org/wp-content/uploads/guns_steel_fate_of_human_society.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Eat, Pray, Love",
+    "author": "Elizabeth Gilbert",
+    "category": "Travel",
+    "price": 99,
+    "seller_name": "Madhav",
+    "image_url": "https://farm5.static.flickr.com/4099/4861580033_1d2f11c10a.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Into the Wild",
+    "author": "Jon Krakauer",
+    "category": "Travel",
+    "price": 199,
+    "seller_name": "Nandini",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwWtvikXLSSSnZ3yQ_g3PDYewZ9zKwGdlhwqnNt28RH0Saav19lQtZM8cVjWjQb7d7ko&usqp=CAU"
+  },
+  {
+    "id": 63,
+    "name": "A Walk in the Woods",
+    "author": "Bill Bryson",
+    "category": "Travel",
+    "price": 299,
+    "seller_name": "Shreyash",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/504bf984c4aa3d6bdeea9684/1441945355320-2DYYL28HK6V9LDYYP1DK/image-asset.jpeg"
+  },
+  {
+    "id": 64,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Travel",
+    "price": 499,
+    "seller_name": "Palavi",
+    "image_url": "https://s26162.pcdn.co/wp-content/uploads/2021/07/1.png"
+  },
+  {
+    "id": 65,
+    "name": "In Patagonia",
+    "author": "Bruce Chatwin",
+    "category": "Travel",
+    "price": 599,
+    "seller_name": "Pranav",
+    "image_url": "https://i.dailymail.co.uk/i/pix/2017/10/05/21/45103C0600000578-0-image-a-110_1507234315611.jpg"
+  },
+  {
+    "id": 66,
+    "name": "The Great Railway Bazaar",
+    "author": "Paul Theroux",
+    "category": "Travel",
+    "price": 799,
+    "seller_name": "Dhiraj",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oBfLniR5368DOIh1ZLylHlEBp9FabirvLw&s"
+  },
+  {
+    "id": 67,
+    "name": "Vagabonding",
+    "author": "Rolf Potts",
+    "category": "Travel",
+    "price": 299,
+    "seller_name": "Nischay",
+    "image_url": "https://www.mymoneyblog.com/wordpress/wp-content/uploads/2016/10/vagabonding1-720x512.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Wild",
+    "author": "Cheryl Strayed",
+    "category": "Travel",
+    "price": 399,
+    "seller_name": "Kataria",
+    "image_url": "https://m.media-amazon.com/images/I/51rtygakasL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREEANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA11%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Travels with Charley",
+    "author": "John Steinbeck",
+    "category": "Travel",
+    "price": 499,
+    "seller_name": "Elvish Bhai",
+    "image_url": "https://i.etsystatic.com/10546812/r/il/36fade/4163226987/il_570xN.4163226987_6n0c.jpg"
+  },
+  {
+    "id": 70,
+    "name": "On the Road",
+    "author": "Jack Kerouac",
+    "category": "Travel",
+    "price": 599,
+    "seller_name": "Munnawar",
+    "image_url": "https://litcritpop.com/wp-content/uploads/2018/12/ttt-books-e28094-kopia-19.png"
+  },
+  {
+    "id": 71,
+    "name": "Naruto",
+    "author": "Masashi Kishimoto",
+    "category": "Anime",
+    "price": 1099,
+    "seller_name": "Abhishek",
+    "image_url": "https://w.wallhaven.cc/full/k9/wallhaven-k9g3ym.jpg"
+  },
+  {
+    "id": 72,
+    "name": "One Piece",
+    "author": "Eiichiro Oda",
+    "category": "Anime",
+    "price": 699,
+    "seller_name": "Abhishek",
+    "image_url": "https://aramajapan.com/wp-content/uploads/2019/09/aramajapan.com-eiichiro-oda-hopes-to-complete-the-main-story-of-one-piece-in-5-years-eiichiro-oda-hopes-to-complete-the-main-story-of-one-piece-in-5-years.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Attack on Titan",
+    "author": "Hajime Isayama",
+    "category": "Anime",
+    "price": 799,
+    "seller_name": "Abhishek",
+    "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/06/attack-on-titan-manga-header.jpg"
+  },
+  {
+    "id": 74,
+    "name": "My Hero Academia",
+    "author": "Kohei Horikoshi",
+    "category": "Anime",
+    "price": 599,
+    "seller_name": "Adarsh Dev Singh",
+    "image_url": "https://honeysanime.com/wp-content/uploads/2019/08/My-Hero-Academia-Kohei-Horikoshi-Wallpaper.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Fullmetal Alchemist",
+    "author": "Hiromu Arakawa",
+    "category": "Anime",
+    "price": 499,
+    "seller_name": "Adarsh Dev Singh",
+    "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/02/fullmetal-alchemist.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Death Note",
+    "author": "Tsugumi Ohba",
+    "category": "Anime",
+    "price": 999,
+    "seller_name": "Abhishek",
+    "image_url": "https://i.ytimg.com/vi/SvSOFlhPTf0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC7WT97XvDJwWw0Ck2bFBFmfs-QmQ"
+  },
+  {
+    "id": 77,
+    "name": "Dragon Ball Z",
+    "author": "Akira Toriyama",
+    "category": "Anime",
+    "price": 1099,
+    "seller_name": "Abhishek",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZu0CJI974Wi1YiXB6Fd0nTfxEXCCqncJzyQ&s"
+  },
+  {
+    "id": 78,
+    "name": "Sword Art Online",
+    "author": "Reki Kawahara",
+    "category": "Anime",
+    "price": 699,
+    "seller_name": "Virat Kohli",
+    "image_url": "https://queanime.com/wp-content/uploads/2019/09/sword_art_online_isekai.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Tokyo Ghoul",
+    "author": "Sui Ishida",
+    "category": "Anime",
+    "price": 399,
+    "seller_name": "Adarsh Dev Singh",
+    "image_url": "https://i.pinimg.com/originals/64/f6/d6/64f6d67a6b66a2fd3d0dd5d041a2421a.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Bleach",
+    "author": "Tite Kubo",
+    "category": "Anime",
+    "price": 499,
+    "seller_name": "Akshat Jain",
+    "image_url": "https://sm.ign.com/t/ign_in/image/b/best-anime/best-anime-series-on-netflix-right-now-december-2021_yyyf.1280.jpg"
+  }
+]
