@@ -74,7 +74,7 @@ Before you begin, ensure you have the following prerequisites installed:
 
 1. **Run the application:**
    ```bash
-   npm start
+   npm run dev
 
 2. **Access the website in your browser:**
    <a> http://localhost:3000</a>
